@@ -1,0 +1,77 @@
+@media screen and (max-width: 1256px){
+    .logo{
+        background-image: url("res/amazon_logo.png");
+        height: 40px;
+        width: 150px;
+        padding: 5px;
+        margin: 0px 5px 0px 5px;
+        background-size: cover;
+        
+    }
+    .first-txt{
+        color: #dedcdc;
+        font-weight: 700;
+        font-size: 0.7rem;
+    }
+    .second-txt{
+        color: white;
+        font-weight: 700;
+        font-size: 0.9rem;
+    }
+
+    .cart{
+        width: 70px;
+        margin-left: 5px;
+        margin-right: 5px;
+        display: flex;
+        padding: 5px;
+        font-size: 25px;
+        align-items: center;
+    }
+    .cart p{
+        font-size: 0.7rem;
+        font-weight: 700;
+    }
+
+    .pane-text-foot{
+        color: #dedcdc;
+        font-weight: 500;
+        font-size: 0.7rem;
+        border-bottom: none;
+    
+    }
+    
+    .pane-text-foot:hover{
+        text-decoration: underline white;
+    }
+
+    .pane-text-c{
+        color: #dedcdc;
+        font-weight: 500;
+        font-size: 0.7rem;
+        border-bottom: none;
+        
+    }
+    
+    .pane-text-c:hover{
+        text-decoration: underline white;
+    }
+
+    .pane-head-text{
+        color: white;
+        font-weight: 700;
+        font-size: 1rem;
+    }
+    
+    .pane-text{
+        color: #dedcdc;
+        font-weight: 500;
+        font-size: 0.9rem;
+        border-bottom: none;
+        
+    }
+    
+    .pane-text:hover{
+        text-decoration: underline white;
+    }
+}
